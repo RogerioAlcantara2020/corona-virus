@@ -27,7 +27,23 @@
 	}
 	.imgNoticia{
 		width: 60%;
-
 	}
 
+	.cxSobre{
+		width:100%;
+	}
+	.cxContato{
+		padding:2px;
+		width: 100%;
+	}
+	table#tabelaSaiba tr td{
+		width: 100%;
+		background:#FFFF66;
+		border: 1px #FFFF66;
+		padding: 15px;
+	}
+	.rodape{
+		margin-top: 5px;
+		height: 100px;
+	}
 }
